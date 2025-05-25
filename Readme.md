@@ -1,7 +1,3 @@
-Parfait ! Voici la **version professionnelle et complète** du README mise à jour pour un **travail de groupe**, avec une mention collective des auteurs.
-
----
-
 # 🎓 Student Record Manager – Langage C
 
 Ce projet est une application console développée en **langage C**, conçue pour gérer un registre d'étudiants de manière simple et efficace.
